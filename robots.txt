@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Allow search engines to parse CSS and JS
+Allow: *.css
+Allow: *.js
+
+# Sitemap location
+Sitemap: https://dresseurdeschiens.com/sitemap.xml
