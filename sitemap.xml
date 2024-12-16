@@ -1,15 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!-- Homepage -->
+    <url>
+        <loc>https://dresseurdeschiens.com/</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
 
-  <!-- Homepage -->
-  <url>
-    <loc>https://dresseurdeschiens.com/</loc>
-    <lastmod>2024-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+    <!-- Location-Specific Pages -->
+    <url>
+        <loc>https://dresseurdeschiens.com/dresseur-de-chien-rabat</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://dresseurdeschiens.com/dresseur-de-chien-casablanca</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://dresseurdeschiens.com/dresseur-de-chien-kenitra</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://dresseurdeschiens.com/dresseur-de-chien-fes</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://dresseurdeschiens.com/dresseur-de-chien-marrakech</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
+    <!-- Service-Specific Pages -->
+    <url>
+        <loc>https://dresseurdeschiens.com/dressage-chiens-de-garde</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://dresseurdeschiens.com/dressage-chiens-chasse</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://dresseurdeschiens.com/dressage-chiots</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://dresseurdeschiens.com/dressage-chiens-agressifs</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Grooming and Veterinary Services -->
+    <url>
+        <loc>https://dresseurdeschiens.com/toilettage-pour-chiens</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://dresseurdeschiens.com/veterinaire-pour-chiens</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Adoption Pages -->
+    <url>
+        <loc>https://dresseurdeschiens.com/adoption-chiens-rabat</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://dresseurdeschiens.com/adoption-chiens-casablanca</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://dresseurdeschiens.com/adoption-chiens-kenitra</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
